@@ -1,7 +1,7 @@
 # 程序员的浪漫
 
 ## 示例网页
-[http://thinkhard.tech/romantic_page/](http://thinkhard.tech/romantic_page/)
+[http://GH2019.github.io/text/](http://GH2019.github.io/text/)
 
 ## 使用方法
 
